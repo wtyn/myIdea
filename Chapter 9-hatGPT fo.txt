@@ -1,0 +1,17 @@
+ChatGPT for macOS now works with Apple Notes and more third-party apps - 9to5Mac on Flickr and other sites
+
+- Added support for the new "Rendering the image" feature. The renderer can now also use the image itself - MacBook Pro, iPad Mini and MacBook Air with Retina display (with Touch ID)
+
+- The "Auto-sync" option now works for the "Preview Image" feature of the Retina display.
+
+
+If you find the update to work on your device. (Please update your device to the latest version of iOS and let us know.)
+
+
+Please let us know if you find any bug or feature that you are experiencing.
+
+
+All the changes are coming soon, but please keep your devices up to date, as we will try to keep your devices stable and up to date with the latest changes.
+
+
+So please let us know if you have any issues or feature you would like to see

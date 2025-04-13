@@ -1,0 +1,6 @@
+Researchers find AI is pretty bad at debugging—but they’re working on it - Ars Technica ‬
+
+The main problem with AI is that it's hard to detect if you're making smart decisions. "In the past, AI was more like a machine learning tool than a human-computer interaction. There are a lot of things that go wrong if you try to make sure that you're getting a human-computer interaction," says Richard Stavrois, an assistant professor of computer science at the University of California, Berkeley. "There's a lot of bad habits that come with being a human, but we're still learning about them." Google's AI-powered car, for example, might do some good in the field of driving by accident, but Stavrois says it could still be very bad. "In the future, we may be able to do some pretty interesting things with AI," he says.
+
+There is a lot of good stuff to learn, but there's a lot of bad stuff to learn.
+
